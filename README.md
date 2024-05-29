@@ -1,6 +1,7 @@
 # Clicker
  Embark on a quantum journey where strategic clicking unlocks powerful upgrades and exponential growth.
 
+https://github.com/sowilu/Clicker/assets/28844061/d5c1cecc-cf9a-43fc-b503-6e8fe7f5dd19
 
 ### Assets:
 - [Chef icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chef "chef icons")
